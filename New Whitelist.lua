@@ -14,7 +14,7 @@ local HwidWhitelist = {
 }
 
 if table.find(HwidWhitelist, HWID) then
-    print("Found HWID In List")
+    print("Found HWID In List | Successfully Loaded Whitelist")
 else
     game.Players.LocalPlayer:Kick("Error : Failed To Whitelist. Contact The Owner For More Information")
 end
