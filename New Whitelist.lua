@@ -1,7 +1,7 @@
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
 local HwidWhitelist = {
-    "", -- Corrade4385
+    "DDBEAD82-7FA1-41FE-8E7A-7600A642F69C", -- Corrade4385
     "8C403AE6-9477-4CA1-832C-B5975D0F0C49", -- XV#0461
     "3DFF8CD9-D426-442F-A938-0531BB5D5EFA", -- NeverTouchedGrass#7490
     "8BF8F77E-5FB4-47A2-8BA4-646F3B084EF0", -- YourLocalStalker#9759
