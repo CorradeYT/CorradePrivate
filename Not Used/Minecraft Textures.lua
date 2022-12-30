@@ -1,4 +1,4 @@
--- **Made by Mastadawn**
+-- Made by Mastadawn
 
 --[[
 Obfuscated By DevFuscator
